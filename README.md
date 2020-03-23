@@ -1,1 +1,1 @@
-https://blackrider116.github.io/react-hooks/   
+https://blackrider116.github.io/react-hooks
