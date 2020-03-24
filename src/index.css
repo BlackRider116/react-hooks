@@ -9,7 +9,12 @@ body {
   margin-bottom: 1rem;
 }
 
+.todo span {
+  color: black;
+}
+
 .todo.completed span {
+  color: gray;
   text-decoration: line-through;
 }
 
@@ -24,6 +29,7 @@ body {
 }
 
 .todo i {
-  z-index: 2;
+  font-size: 20px;
+  color: red;
 }
 
